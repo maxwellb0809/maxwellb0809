@@ -11,12 +11,6 @@
 </div>
 
 ---
-
-### 🌟 Un poco sobre mí
-¡Qué tal! Qué bueno que te pases por aquí. Me considero una persona curiosa, apasionada por la tecnología y en constante evolución. Fuera de las líneas de código, disfruto muchísimo manteniendo un balance con el deporte, entrenando en el gym y conectando con actividades al aire libre que me recargan las pilas. Creo firmemente que la disciplina y la creatividad van de la mano tanto en la vida como en el desarrollo de software. 💻✨
-
----
-
 ### ⛵ Perfil Profesional
 Estudiante de Ingeniería en Software en UNAPEC con enfoque en el desarrollo web Full-Stack. Tengo experiencia práctica construyendo aplicaciones interactivas integrando tecnologías frontend y backend, autenticación de usuarios y gestión de bases de datos relacionales. Me apasiona la resolución de problemas, el aprendizaje continuo y la adopción de tecnologías en la nube para aportar valor real en cada proyecto. 🚀
 
